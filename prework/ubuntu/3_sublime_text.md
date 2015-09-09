@@ -99,4 +99,4 @@ And you'll see something like this.
 ![](https://i.imgur.com/BfZy8as.png)
 
 
-### [⇐ Previous](2_fish.md) | [Next ⇒](4_git.md)
+### [⇐ Previous](2_apt.md) | [Next ⇒](4_git.md)
