@@ -131,4 +131,4 @@ And you'll see something like this.
 Now, the `/usr/local/bin` directory is listed first. This means Fish (and any shell that leverages `/etc/paths`) will prefer Homebrew-installed commands over the pre-installed ones.
 
 
-### [⇐ Previous](3_fish.md) | [Next ⇒](5_git.md)
+### [⇐ Previous](2_homebrew.md) | [Next ⇒](4_git.md)
