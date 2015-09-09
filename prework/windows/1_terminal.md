@@ -60,38 +60,4 @@ Here's what happened:
 
 Simply stated, a Unix shell works like a read-evaluate-print loop or **REPL**.
 
-
-### Change the Terminal
-
-The default Terminal app in Windows has no support for copy and paste keyboard shortcuts. Weak! Let's change that.
-
-To get started, download [Console](http://sourceforge.net/projects/console/)—a modern Terminal app for Windows. Once downloaded, extract the app to `C:\Program Files` like this.
-
-![](https://i.imgur.com/YQwoRp5.png)
-
-Once extracted, add a shortcut the Start Menu.
-
-![](https://i.imgur.com/KzFbpDI.png)
-
-Launch the Console app and ignore the security warning. Navigate to the `Edit > Settings` menu item and check the box on the **bottom left** to "save settings to user directory".
-
-![](https://i.imgur.com/bk1epeX.png)
-
-Click the OK button to save and close the Console app for now.
-
-Back in the original Git Bash window, run the following command.
-
-```
-curl -fsSL http://git.io/Fafs | sh
-```
-
-**TIP:** To paste, right click the title bar and choose `Edit > Paste`.
-
-Now, relaunch the Console app—ignoring the security warning again—and you'll see something like this.
-
-![](https://i.imgur.com/Ip6ulxi.png)
-
-Finally, close Git Bash and delight in your new Terminal app that has proper copy and paste support. :tada:
-
-
 ### [Next ⇒](2_sublime_text.md)
