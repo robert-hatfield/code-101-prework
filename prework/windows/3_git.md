@@ -14,7 +14,9 @@ And you'll see something like this.
 
 ### Git Config
 
-Like artists, programmers sign their work. Let's configure Git to sign your commits with your name and email address. Make sure you sign up for an account at Github [here](https://github.com).
+Like artists, programmers sign their work. Let's configure Git to sign your commits with your name and email address. 
+
+Sign up for an account at Github [here](https://github.com).
 
 **WARNING:** Before running the following commands, replace `YOUR FULL NAME` and `YOUR EMAIL ADDRESS` with the name and email from [your GitHub account](https://github.com/settings/profile).
 
