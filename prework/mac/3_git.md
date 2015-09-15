@@ -24,8 +24,6 @@ git config --global user.name 'YOUR FULL NAME'
 git config --global user.email 'YOUR EMAIL ADDRESS'
 ```
 
-Next, run this command to download and install some awesome colors and handy aliases for Git.
-
 
 ### GitHub
 
