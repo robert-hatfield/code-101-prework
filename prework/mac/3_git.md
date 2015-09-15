@@ -15,6 +15,8 @@ And you'll see something like this.
 
 ### Git Config
 
+You're on the home stretch now! :racehorse:
+
 Like artists, programmers sign their work. Let's configure Git to sign your commits with your name and email address. Make sure you sign up for an account at Github [here](https://github.com).
 
 **WARNING:** Before running the following commands, replace `YOUR FULL NAME` and `YOUR EMAIL ADDRESS` with the name and email from [your GitHub account](https://github.com/settings/profile).
@@ -22,18 +24,6 @@ Like artists, programmers sign their work. Let's configure Git to sign your comm
 ```
 git config --global user.name 'YOUR FULL NAME'
 git config --global user.email 'YOUR EMAIL ADDRESS'
-```
-
-
-### GitHub
-
-You're on the home stretch now! :racehorse:
-
-Run the following command to download and install some extra Git config that'll make your life easier when using GitHub from the command line.
-
-
-```
-curl -fsSL http://git.io/QxUaOQ | sh
 ```
 
 ### Congratulations!
