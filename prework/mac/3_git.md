@@ -48,4 +48,4 @@ curl -fsSL http://git.io/QxUaOQ | sh
 Time for a frosty beverage. :beers:
 
 
-### [⇐ Previous](3_sublime_text.md) | [README ⇒](../../../../)
+### [⇐ Previous](2_sublime_text.md) | [README ⇒](../../../../)
