@@ -72,4 +72,4 @@ Now, every new Terminal window will look like this.
 ![](https://i.imgur.com/87bHvEF.png)
 
 
-### [Next ⇒](2_homebrew.md)
+### [Next ⇒](3_sublime_text.md)
