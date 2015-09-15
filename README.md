@@ -18,6 +18,5 @@ Code 101: Intro to Software Development & Careers in Tech
   - [Windows](prework/windows/1_terminal.md)
 
 Following completion of these Pre-work assignments, you should:
- - Have a colorized terminal with a Git compatible prompt
- - Be able to open files in Sublime Text via the Terminal
+ - Have a terminal with a Git compatible prompt
  - Be able to receive a valid response when typing "git --version"
