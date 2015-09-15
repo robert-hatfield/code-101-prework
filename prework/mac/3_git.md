@@ -26,11 +26,6 @@ git config --global user.email 'YOUR EMAIL ADDRESS'
 
 Next, run this command to download and install some awesome colors and handy aliases for Git.
 
-```
-curl -fsSL http://git.io/7UHtNA | sh
-```
-
-We'll go over these later. For now, relish in your victory of making it this far in the setup guide. :tada:
 
 ### GitHub
 
