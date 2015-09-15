@@ -1,14 +1,8 @@
 ### Install Git
 
-Using Homebrew, you can also install [Git](http://git-scm.com/), the version control system of choice among choosy developers. :neckbeard:
+Now go [here](http://git-scm.com/download/mac) to install Git, the version control system of choice among choosy developers. :neckbeard:
 
-To get started, run the following command.
-
-```
-brew install git
-```
-
-Once it finishes, run the following command.
+Once it is fully installed, open Terminal and run the following command.
 
 ```
 git --version
