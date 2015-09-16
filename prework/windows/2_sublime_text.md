@@ -2,15 +2,15 @@
 
 Now it's time to install [Sublime Text](http://www.sublimetext.com/), a sophisticated text editor for code, markup, and prose.
 
-To get started, download [Sublime Text 2](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20x64%20Setup.exe) and run the installer. Again, go with the default installation options if you're feeling overwhelmed.
+To get started, download [Sublime Text 3]http://www.sublimetext.com/3) and run the installer. Again, go with the default installation options, unless you really know you want to change something.
 
-Once installed, use the Start Menu to launch Sublime Text 2.
+Once installed, use the Start Menu to launch Sublime Text 3.
 
 ![](http://i.imgur.com/mnR5naJ.png)
 
 Next, navigate to the `Preferences > Settings - User` menu item.
 
-Ensure the file contains the following preferences.
+Copy and paste the text that's in the box below into that file.
 
 ```
 {
