@@ -8,9 +8,9 @@ This guide is mostly compatible with older versions of Windows. So follow along 
 
 ### The Terminal
 
-Included in Windows is the **Terminal**—an app that runs a Unix shell.
+A **Unix shell** (often referred to as a "terminal") is a command line user interface between you and your computer's operating system. In a Unix shell, you can type in commands that tell the computer to do many things: navigate to files and folders, install and run programs, and change configurations. Programmers rely on their Unix shells to do lots of work, quickly and easily.
 
-A **Unix shell** is a command line user interface between you and your computer's operating system. You're probably most familiar with the graphical user interface of your computer's operating system. While that's technically a shell too, most programmers think of the textual, command line interface when they hear to word _shell_.
+You're probably most familiar with the graphical user interface (the "GUI") of your computer's operating system. Those are the boxes, windows, and menu items that you click on with your mouse. While that's technically a shell too, most programmers think of the textual, command line interface when they hear to word _shell_.
 
 Sadly, Windows **does not** include a Unix shell. Let's fix that.
 
@@ -19,17 +19,21 @@ CAVEAT: Until Windows adopts more Unix standards, please be aware that any Unix-
 
 ### Install Git for Windows
 
-[Git for Windows](http://msysgit.github.io/) is a lightweight, native set of tools that bring the full feature set of Git to Windows. It includes **Bash**, a popular Unix shell, which you'll use to run the `git` command line just like other Unix environments.
+[Git for Windows](http://msysgit.github.io/) brings the full feature set of Git to Windows. (More on Git in a moment.) It also includes **Bash**, a popular Unix shell. Besides giving you the ability to talk to your computer by typing commands, it also lets you use Git in the command line, just like other Unix environments.
 
-To get started, download and install [Git for Windows](http://msysgit.github.io/). There are a bunch of installation options, but you can use the defaults if you're feeling overwhelmed.
+What's Git? It's a very popular **version control** system. Version control systems let programmers share and collaborate on code. With Git, multiple programmers can work on the same files, and Git keeps track of who made what changes, when. Git is usually used with a website, GitHub, that stores code (in "repositories") and lets programmers review and discuss changes before they are added. In short, Git makes everyone's lives easier.
 
-Once installed, use the Start Menu to launch Git Bash.
+To get started, download [Git for Windows](http://msysgit.github.io/). Once you click the "download" button, you'll see a list of download options.
+
+Look closely at the first two filenames in the list. One says "32 bit", and the other says "64 bit". Those are the different versions for 32-bit and 64-bit Windows. Download the one for your system. If you don't know whether your version of Windows is 32- or 64-bit, [find out](http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows).
+
+Once you get it downloaded, double-click the file to open the installer. It will guide you through several options; the defaults are just fine, so keep on clicking "Next" until it's done.
+
+When it's done installing, use the Start Menu to launch Git Bash. **TIP:** search for and open "Git Bash", not "Git CMD" or "Git GUI". Then, pin it to your Start Menu so it's easy to find.
 
 ![](https://i.imgur.com/9CKUGs5.png)
 
-**TIP:** Don't be distracted by the **Git GUI** program.
-
-Once launched, you'll see something like this.
+After it's launched, you'll see something like this.
 
 ![](https://i.imgur.com/hyjvQkW.png)
 
@@ -58,6 +62,6 @@ Here's what happened:
 1. The shell told the Terminal to display another prompt.
 1. Once displayed, the shell began waiting for your next command.
 
-Simply stated, a Unix shell works like a read-evaluate-print loop or **REPL**.
+Simply stated, a Unix shell works in a read-evaluate-print loop or **REPL**.
 
 ### [Next ⇒](2_sublime_text.md)
