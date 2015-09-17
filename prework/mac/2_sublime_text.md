@@ -2,15 +2,15 @@
 
 Now it's time to install [Sublime Text](http://www.sublimetext.com/), a sophisticated text editor for code, markup, and prose.
 
-To get started, download [Sublime Text 2](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.dmg) and drag the app icon into your `/Applications` folder.
+To get started, download [Sublime Text 3](http://www.sublimetext.com/3) and drag the app icon into your `/Applications` folder.
 
 **TIP:** Remember to eject the disk image after installing the app.
 
-Once installed, use Spotlight to launch Sublime Text 2.
+Once installed, use Spotlight to launch Sublime Text 3.
 
 ![](https://i.imgur.com/rrHkcoy.jpg)
 
-Next, navigate to the `Sublime Text 2 > Preferences > Settings - User` menu item.
+Next, navigate to the `Sublime Text 3 > Preferences > Settings - User` menu item.
 
 Ensure the file contains the following preferences.
 
@@ -21,7 +21,8 @@ Ensure the file contains the following preferences.
   "rulers": [80],
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
+  "trim_trailing_white_space_on_save": true,
+  "save_on_focus_lost": true
 }
 ```
 

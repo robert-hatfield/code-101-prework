@@ -1,6 +1,8 @@
 ### Install Git
 
-Now go [here](http://git-scm.com/download/mac) to install Git, the version control system of choice among choosy developers. :neckbeard:
+Now go [here](http://git-scm.com/download/mac) to install Git, the version control system of choice among choosy developers.
+
+Version control systems let programmers share and collaborate on code. With Git, multiple programmers can work on the same files, and Git keeps track of who made what changes, when. Git is usually used with a website, GitHub, that stores code (in "repositories") and lets programmers review and discuss changes before they are added. In short, Git makes everyone's lives easier.
 
 Once it is fully installed, open Terminal and run the following command.
 
@@ -17,7 +19,7 @@ And you'll see something like this.
 
 You're on the home stretch now! :racehorse:
 
-Like artists, programmers sign their work. Let's configure Git to sign your commits with your name and email address. 
+Like artists, programmers sign their work. Let's configure Git to sign your commits with your name and email address.
 
 Sign up for an account at Github [here](https://github.com).
 
