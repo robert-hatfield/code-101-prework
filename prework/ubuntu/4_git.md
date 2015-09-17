@@ -2,6 +2,8 @@
 
 Using APT, you can also install [Git](http://git-scm.com/), the version control system of choice among choosy developers.
 
+Version control systems let programmers share and collaborate on code. With Git, multiple programmers can work on the same files, and Git keeps track of who made what changes, when. Git is usually used with a website, GitHub, that stores code (in "repositories") and lets programmers review and discuss changes before they are added. In short, Git makes everyone's lives easier.
+
 To get started, run the following command.
 
 ```
