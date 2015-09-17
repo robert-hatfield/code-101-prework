@@ -19,7 +19,8 @@ Copy and paste the text that's in the box below into that file.
   "rulers": [80],
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
+  "trim_trailing_white_space_on_save": true,
+  "save_on_focus_lost": true
 }
 ```
 

@@ -27,8 +27,6 @@ git config --global user.name 'YOUR FULL NAME'
 git config --global user.email 'YOUR EMAIL ADDRESS'
 ```
 
-We'll go over these later. For now, relish in your victory of making it this far in the setup guide. :tada:
-
 ### Congratulations!
 
 Time for a frosty beverage. :beers:
