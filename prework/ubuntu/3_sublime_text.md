@@ -1,6 +1,6 @@
 ### Install Sublime Text
 
-Using APT, it's time to install [Sublime Text](http://www.sublimetext.com/), a sophisticated text editor for code, markup and prose.
+Using APT, it's time to install [Sublime Text 3](http://www.sublimetext.com/), a sophisticated text editor for code, markup and prose.
 
 To get started, run the following command.
 
@@ -14,7 +14,7 @@ Once installed, use the Dash to launch Sublime Text.
 
 Next, navigate to the `Preferences > Settings - User` menu item.
 
-Ensure the file contains the following preferences.
+Copy the settings below and paste them into the file. These are basic preferences to get you started.
 
 ```
 {
@@ -24,7 +24,8 @@ Ensure the file contains the following preferences.
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
-  "update_check": false
+  "update_check": false,
+  "save_on_focus_lost": true
 }
 ```
 
