@@ -1,25 +1,30 @@
 ### Install Sublime Text
 
-Now it's time to install [Sublime Text](http://www.sublimetext.com/), a sophisticated text editor for code, markup, and prose.
+Using APT, it's time to install [Sublime Text 3](http://www.sublimetext.com/), a sophisticated text editor for code, markup and prose.
 
-To get started, download [Sublime Text 3]http://www.sublimetext.com/3) and run the installer. Again, go with the default installation options, unless you really know you want to change something.
+To get started, run the following command.
 
-Once installed, use the Start Menu to launch Sublime Text 3.
+```
+sudo apt-get install -y sublime-text-installer
+```
 
-![](http://i.imgur.com/mnR5naJ.png)
+Once installed, use the Dash to launch Sublime Text.
+
+![](https://i.imgur.com/urq6WwX.png)
 
 Next, navigate to the `Preferences > Settings - User` menu item.
 
-Copy and paste the text that's in the box below into that file.
+Copy the settings below and paste them into the file. These are basic preferences to get you started.
 
 ```
 {
-  "font_size": 15.0,
+  "font_size": 18.0,
   "ensure_newline_at_eof_on_save": true,
   "rulers": [80],
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
+  "update_check": false,
   "save_on_focus_lost": true
 }
 ```
@@ -28,8 +33,8 @@ Copy and paste the text that's in the box below into that file.
 
 Remember to save the file and you'll see something like this.
 
-![](https://imgur.com/Gzz7ojR.png)
+![](https://i.imgur.com/dGUbd34.png)
 
 When you're done, close the file.
 
-### [⇐ Previous](1_terminal.md) | [Next ⇒](3_git.md)
+### [⇐ Previous](2_apt.md) | [Next ⇒](4_git.md)

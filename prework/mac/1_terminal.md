@@ -10,7 +10,9 @@ This guide is mostly compatible with older versions of Mac OS X. So follow along
 
 Included in Mac OS X is the **Terminal**—an app that runs a Unix shell.
 
-A **Unix shell** is a command line user interface between you and your computer's operating system. You're probably most familiar with the graphical user interface of your computer's operating system. While that's technically a shell too, most programmers think of the textual, command line interface when they hear to word _shell_.
+A **Unix shell** (often referred to as a "terminal") is a command line user interface between you and your computer's operating system. In a Unix shell, you can type in commands that tell the computer to do many things: navigate to files and folders, install and run programs, and change configurations. Programmers rely on their Unix shells to do lots of work, quickly and easily.
+
+You're probably most familiar with the graphical user interface (the "GUI") of your computer's operating system. Those are the boxes, windows, and menu items that you click on with your mouse. While that's technically a shell too, most programmers think of the textual, command line interface when they hear to word _shell_.
 
 
 ### Explore the Terminal
@@ -50,7 +52,7 @@ Here's what happened:
 1. The shell told the Terminal to display another prompt.
 1. Once displayed, the shell began waiting for your next command.
 
-Simply stated, a Unix shell works like a read-evaluate-print loop or **REPL**.
+Simply stated, a Unix shell works in a read-evaluate-print loop or **REPL**.
 
 
 ### Change the Terminal Profile
@@ -72,4 +74,4 @@ Now, every new Terminal window will look like this.
 ![](https://i.imgur.com/87bHvEF.png)
 
 
-### [Next ⇒](2_homebrew.md)
+### [Next ⇒](2_sublime_text.md)

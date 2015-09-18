@@ -2,19 +2,21 @@
 
 Now it's time to install [Sublime Text](http://www.sublimetext.com/), a sophisticated text editor for code, markup, and prose.
 
-To get started, download [Sublime Text 3]http://www.sublimetext.com/3) and run the installer. Again, go with the default installation options, unless you really know you want to change something.
+To get started, download [Sublime Text 3](http://www.sublimetext.com/3) and drag the app icon into your `/Applications` folder.
 
-Once installed, use the Start Menu to launch Sublime Text 3.
+**TIP:** Remember to eject the disk image after installing the app.
 
-![](http://i.imgur.com/mnR5naJ.png)
+Once installed, use Spotlight to launch Sublime Text 3.
 
-Next, navigate to the `Preferences > Settings - User` menu item.
+![](https://i.imgur.com/rrHkcoy.jpg)
 
-Copy and paste the text that's in the box below into that file.
+Next, navigate to the `Sublime Text 3 > Preferences > Settings - User` menu item.
+
+Ensure the file contains the following preferences.
 
 ```
 {
-  "font_size": 15.0,
+  "font_size": 18.0,
   "ensure_newline_at_eof_on_save": true,
   "rulers": [80],
   "tab_size": 2,
@@ -28,8 +30,9 @@ Copy and paste the text that's in the box below into that file.
 
 Remember to save the file and you'll see something like this.
 
-![](https://imgur.com/Gzz7ojR.png)
+![](https://i.imgur.com/W7P51S3.png)
 
 When you're done, close the file.
+
 
 ### [⇐ Previous](1_terminal.md) | [Next ⇒](3_git.md)
