@@ -20,3 +20,11 @@ Code 101: Intro to Software Development & Careers in Tech
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
  - Be able to receive a valid response when typing "git --version"
+
+##### 3. Download and Install Slack
+
+We use Slack to distribute files and collaborate before, during, and after the workshop.
+
+  - [Slack](https://slack.com/apps)
+
+Look for an email from us prior to the workshop, in order to join our Slack team.
