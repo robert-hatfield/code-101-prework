@@ -1,6 +1,6 @@
 ### Install Sublime Text
 
-Using APT, it's time to install [Sublime Text 3](http://www.sublimetext.com/), a sophisticated text editor for code, markup and prose.
+Using APT, it's time to install [Sublime Text 3](http://www.sublimetext.com/3), a sophisticated text editor for code, markup and prose.
 
 To get started, run the following command.
 
