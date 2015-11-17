@@ -5,6 +5,15 @@ This guide will help you setup a software development environment on [Windows 7]
 
 This guide is mostly compatible with older versions of Windows. So follow along as best you can while Googling any problems you come across.
 
+### Discovering the Home Directory
+
+Throughout the workshop, you'll be creating and editing files. The best place to store those files is in a _Projects_ folder within your _Home_ directory (aka _Home_ folder). In Windows, you can find your home directory by **copying and pasting** the following address into your Windows Explorer address bar: 
+
+`C:\Users\`
+
+![finding the home directory](http://i.imgur.com/dsPrkSA.png)
+
+**Double-click** on folder with your name or user account name on it to open it. This folder IS your _Home_ directory. Note that it's not explicably named _Home_. Additionally, if there are other users on your computer, their names will also appear in the _Users_ folder. Once you're in your _Home_ directory, **create** a _Projects_ folder. You will store your files in that folder during the workshop.
 
 ### The Terminal
 
