@@ -2,7 +2,7 @@
 
 Now it's time to install Atom, a sophisticated text editor for code, markup, and prose.
 
-To get started, download [Atom](https://atom.io/) and drag the app icon into your `/Applications` folder.
+To get started, download the [Atom installer](https://atom.io/) and drag the app icon into your `/Applications` folder.
 
 **TIP:** Remember to eject the disk image after installing the app.
 
