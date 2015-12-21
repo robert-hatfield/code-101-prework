@@ -1,40 +1,10 @@
-### Install Sublime Text
+### Install Atom
 
-Using APT, it's time to install [Sublime Text 3](http://www.sublimetext.com/3), a sophisticated text editor for code, markup and prose.
+1. Download the `atom-amd64.deb` package from the [Atom releases page](https://github.com/atom/atom/releases/latest).
+2. Open your Terminal, navigate to the directory where you downloaded the package, and run `sudo dpkg --install atom-amd64.deb`.
+3. Launch Atom using the installed `atom` command.
 
-To get started, run the following command.
-
-```
-sudo apt-get install -y sublime-text-installer
-```
-
-Once installed, use the Dash to launch Sublime Text.
-
-![](https://i.imgur.com/urq6WwX.png)
-
-Next, navigate to the `Preferences > Settings - User` menu item.
-
-Copy the settings below and paste them into the file. These are basic preferences to get you started.
-
-```
-{
-  "font_size": 18.0,
-  "ensure_newline_at_eof_on_save": true,
-  "rulers": [80],
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "update_check": false,
-  "save_on_focus_lost": true
-}
-```
-
-**WARNING:** Punctuation errors with either curly-brackets, double-quotes, colons, square-brackets, or commas will be highlighted in red. If one of these symbols is missing, Sublime Text will highlight the next closest symbol. Analyze the above example preferences carefully. :eyes:
-
-Remember to save the file and you'll see something like this.
-
-![](https://i.imgur.com/dGUbd34.png)
-
-When you're done, close the file.
+The Linux version does not currently automatically update so you will need to
+repeat these steps to upgrade to future releases.
 
 ### [⇐ Previous](2_apt.md) | [Next ⇒](4_git.md)
