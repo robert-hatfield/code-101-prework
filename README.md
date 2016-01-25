@@ -25,6 +25,6 @@ Following completion of these Pre-work assignments, you should:
 
 We use Slack to distribute files and collaborate before, during, and after the workshop.
 
-  - [Download Slack](https://slack.com/apps)
+  - <a href="https://slack.com/apps" target="_blank">Download Slack</a>
 
 Look for an email from us prior to the workshop, in order to join our Slack team.
