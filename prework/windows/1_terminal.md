@@ -7,7 +7,7 @@ This guide is mostly compatible with older versions of Windows. So follow along 
 
 ### Discovering the Home Directory
 
-Throughout the workshop, you'll be creating and editing files. The best place to store those files is in a _Projects_ folder within your _Home_ directory (aka _Home_ folder). In Windows, you can find your home directory by **copying and pasting** the following address into your Windows Explorer address bar: 
+Throughout the workshop, you'll be creating and editing files. The best place to store those files is in a _Projects_ folder within your _Home_ directory (aka _Home_ folder). In Windows, you can find your home directory by **copying and pasting** the following address into your Windows Explorer address bar:
 
 `C:\Users\`
 
