@@ -1,6 +1,12 @@
 Code 101: Intro to Software Development & Careers in Tech
 -----------------------
 
+Welcome to Code 101!
+
+The very first thing you need to do is setup your computer. This means you will need to download and install all the tools necessary to write code. These guides may contain a lot of terms that you are unfamiliar with. Bear with us, follow along, and see if you can set up your computer so that you're fully ready to start Code 101. 
+
+**If you encounter any problems with these guides, please come in early at 8 AM so that we can help you setup your computer.**
+
 ### Pre-work
 
 ##### 1. Ensure your laptop up to the task of coding
