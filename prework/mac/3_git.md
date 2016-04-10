@@ -1,5 +1,7 @@
 ### Install Git
 
+Version control systems let programmers share and collaborate on code. With Git, multiple programmers can work on the same files, and Git keeps track of who made what changes, when. Git is usually used with a website, GitHub, that stores code (in "repositories") and lets programmers review and discuss changes before they are added. In short, Git makes everyone's lives easier.
+
 There are multiple versions of the Git, and the one you use on depends on which version of Mac OSX (e.g. Snow Leapord, Lion, Mountain Lion, Mavericks, Yosemite, El Capitan, etc.) you are running. There are currently two choices. One will work on any Mac (but will not have all the latest features) and the other will work *only* on Macs with the newer OS versions installed (Mavericks, Yosemite, and El Capitan).
 
 *Either version will work for this course* **however** if you have an older Mac OS (Snow Leapord, Lion, Mountain Lion) then the newer version will not work at all.
@@ -12,8 +14,6 @@ Click the apple icon in the upper left corner of yoru screen. Then click on `abo
 If your screen shows OSX Snow Leapard (version 10.6.xx), OSX Lion (version 10.7.xx), or OSX Mountain Lion (version 10.8.xx) then you **MUST** download the old version of Git. To get the older version click <a href="https://sourceforge.net/projects/git-osx-installer/files/git-2.3.5-intel-universal-snow-leopard.dmg/download">here (older version)</a>.
 
 If you have Marvericks (10.9.xx), Yosemite (10.10.xx), or El Capitan (10.11.xx) then you should use the version at the following link. Go <a href="http://git-scm.com/download/mac" target="_blank">here (newer version)</a> Go to the to install Git, the version control system of choice among choosy developers.
-
-Version control systems let programmers share and collaborate on code. With Git, multiple programmers can work on the same files, and Git keeps track of who made what changes, when. Git is usually used with a website, GitHub, that stores code (in "repositories") and lets programmers review and discuss changes before they are added. In short, Git makes everyone's lives easier.
 
 Once it is fully installed, open Terminal and run the following command.
 
