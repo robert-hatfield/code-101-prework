@@ -1,14 +1,13 @@
 Setup for Mac OS X
 ------------------
 
-This guide will help you setup a software development environment on <a href="https://www.apple.com/osx/" target="_blank">Mac OS X 10.9 Mavericks</a> and above. By the end, your computer will be configured with the same state-of-the-art tools used by professional software developers.
+This guide will help you setup a software development environment on <a href="https://www.apple.com/osx/" target="_blank">Mac OS X</a> 10.9 Mavericks and above. By the end, your computer will be configured with the same state-of-the-art tools used by professional software developers.
 
 This guide is mostly compatible with older versions of Mac OS X. So follow along as best you can while Googling any problems you come across.
 
-
 ### The Terminal
 
-Included in Mac OS X is the **Terminal**—an app that runs a Unix shell.
+Included in Mac OS X is the **Terminal**: an app that runs a Unix shell.
 
 A **Unix shell** (often referred to as a "terminal") is a command line user interface between you and your computer's operating system. In a Unix shell, you can type in commands that tell the computer to do many things: navigate to files and folders, install and run programs, and change configurations. Programmers rely on their Unix shells to do lots of work, quickly and easily.
 
