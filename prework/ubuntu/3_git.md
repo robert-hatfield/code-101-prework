@@ -70,4 +70,4 @@ curl -fsSL http://git.io/Ggdljw | sh
 Time for a frosty beverage. 
 
 
-### [⇐ Previous](2_apt.md) | [Next ⇒](4_git.md)
+### [⇐ Previous](2_apt.md) | [Next ⇒](4_editor.md)
