@@ -1,12 +1,11 @@
-Setup for Ubuntu
-----------------
+# Setup for Ubuntu
 
 This guide will help you setup a software development environment on <a href="http://releases.ubuntu.com/14.04/" target="_blank">Ubuntu 14.04 Trusty Tahr</a>. By the end, your computer will be configured with the same state-of-the-art tools used by professional software developers.
 
 This guide is mostly compatible with older versions of Ubuntu. So follow along as best you can while Googling any problems you come across.
 
 
-### The Terminal
+## The Terminal
 
 Included in Ubuntu is the **Terminal** -- an app that runs a Unix shell.
 

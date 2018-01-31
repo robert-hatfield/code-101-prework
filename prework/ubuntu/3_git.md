@@ -1,4 +1,4 @@
-### Install Git
+# Install Git
 
 Using APT, you can also install <a href="http://git-scm.com/" target="_blank">Git</a>, the version control system of choice among choosy developers.
 
@@ -20,7 +20,7 @@ And you'll see something like this.
 
 ![](https://i.imgur.com/YmUQzF0.png)
 
-### Git Config
+## Git Config
 
 Like artists, programmers sign their work. Let's configure Git to sign your commits with your name and email address.
 
@@ -54,7 +54,7 @@ curl -fsSL http://git.io/7UHtNA | sh
 
 We'll go over these later. For now, relish in your victory of making it this far in the setup guide. :tada:
 
-### GitHub
+## GitHub
 
 You're on the home stretch now! :racehorse:
 
@@ -65,9 +65,9 @@ Run the following command to download and install some extra Git configs that'll
 curl -fsSL http://git.io/Ggdljw | sh
 ```
 
-### Congratulations!
+## Congratulations!
 
-Time for a frosty beverage. :beers:
+Time for a frosty beverage. 
 
 
-### [⇐ Previous](3_atom.md) | [README ⇒](../../../../)
+### [⇐ Previous](2_apt.md) | [Next ⇒](4_git.md)

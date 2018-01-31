@@ -1,11 +1,10 @@
-Setup for Windows
------------------
+# Setup for Windows
 
 This guide will help you setup a software development environment on <a href="http://windows.microsoft.com/en-us/windows/products" target="_blank">Windows 7</a> and above. By the end, your computer will be configured with the same state-of-the-art tools used by professional software developers.
 
 This guide is mostly compatible with older versions of Windows. So follow along as best you can while Googling any problems you come across.
 
-### Discovering the Home Directory
+## Discovering the Home Directory
 
 Throughout the workshop, you'll be creating and editing files. The best place to store those files is in a _Projects_ folder within your _Home_ directory (aka _Home_ folder). In Windows, you can find your home directory by **copying and pasting** the following address into your Windows Explorer address bar:
 
@@ -15,7 +14,7 @@ Throughout the workshop, you'll be creating and editing files. The best place to
 
 **Double-click** on folder with your name or user account name on it to open it. This folder IS your _Home_ directory. Note that it's not explicably named _Home_. Additionally, if there are other users on your computer, their names will also appear in the _Users_ folder. Once you're in your _Home_ directory, **create** a _Projects_ folder. You will store your files in that folder during the workshop.
 
-### The Terminal
+## The Terminal
 
 A **Unix shell** (often referred to as a "terminal") is a command line user interface between you and your computer's operating system. In a Unix shell, you can type in commands that tell the computer to do many things: navigate to files and folders, install and run programs, and change configurations. Programmers rely on their Unix shells to do lots of work, quickly and easily.
 
@@ -26,7 +25,7 @@ Sadly, Windows **does not** include a Unix shell. Let's fix that.
 CAVEAT: Until Windows adopts more Unix standards, please be aware that any Unix-based tools written for Windows will inevitably have some quirks.
 
 
-### Install Git for Windows
+## Install Git for Windows
 
 <a href="http://msysgit.github.io/" target="_blank">Git for Windows</a> brings the full feature set of Git to Windows. (More on Git in a moment.) It also includes **Bash**, a popular Unix shell. Besides giving you the ability to talk to your computer by typing commands, it also lets you use Git in the command line, just like other Unix environments.
 
@@ -73,4 +72,4 @@ Here's what happened:
 
 Simply stated, a Unix shell works in a read-evaluate-print loop or **REPL**.
 
-### [Next ⇒](2_atom.md)
+### [Next ⇒](2_editor.md)

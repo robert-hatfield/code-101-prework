@@ -1,4 +1,4 @@
-### Verify Git
+# Verify Git
 
 If you've been following along with this guide, you've already installed Git, the version control system of choice among choosy developers.
 
@@ -12,7 +12,7 @@ And you'll see something like this.
 
 ![](https://i.imgur.com/fnUU61q.png)
 
-### Git Config
+## Git Config
 
 You're on the home stretch now! :racehorse:
 
@@ -43,7 +43,7 @@ user.name='YOUR FULL NAME'
 
 ### Congratulations!
 
-Time for a frosty beverage. :beers:
+Time for a frosty beverage.
 
 
-### [⇐ Previous](2_atom.md) | [README ⇒](../../../../)
+### [⇐ Previous](2_editor.md) | [README ⇒](../../../../)
