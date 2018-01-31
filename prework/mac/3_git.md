@@ -1,4 +1,4 @@
-### Install Git
+# Install Git
 
 Version control systems let programmers share and collaborate on code. With Git, multiple programmers can work on the same files, and Git keeps track of who made what changes, when. Git is usually used with a website, GitHub, that stores code (in "repositories") and lets programmers review and discuss changes before they are added. In short, Git makes everyone's lives easier.
 
@@ -26,7 +26,7 @@ And you'll see something like this.
 ![](https://i.imgur.com/jBSs1qR.png)
 
 
-### Git Config
+## Git Config
 
 You're on the home stretch now! :racehorse:
 
@@ -54,9 +54,9 @@ user.email='YOUR EMAIL ADDRESS'
 user.name='YOUR FULL NAME'
 ```
 
-### Congratulations!
+## Congratulations!
 
-Time for a frosty beverage. :beers:
+Time for a frosty beverage. 
 
 
 ### [⇐ Previous](2_editor.md) | [README ⇒](../../../../)
