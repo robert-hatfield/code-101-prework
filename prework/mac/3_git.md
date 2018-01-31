@@ -59,4 +59,4 @@ user.name='YOUR FULL NAME'
 Time for a frosty beverage. :beers:
 
 
-### [⇐ Previous](2_atom.md) | [README ⇒](../../../../)
+### [⇐ Previous](2_editor.md) | [README ⇒](../../../../)
