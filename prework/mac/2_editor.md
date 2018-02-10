@@ -8,11 +8,11 @@ To get started, download [VSCode](https://code.visualstudio.com/download), and a
 
 ## Install shell commands
 
-You'll find it useful to open files and directories in VSCode from the terminal, but that functionality needs to be configured first. 
+You'll find it useful to open files and directories in VSCode from the terminal, but that functionality needs to be configured first.
 
-Open the **Command Palette** (⇧⌘P) and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
+Open the **Command Palette** (⇧⌘P) and type `shell command` to find the **Shell Command: Install 'code' command in PATH** command.
 
-Restart the terminal for the new $PATH value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder. If VSCode opens, you're good to go.
+Restart the terminal for the new $PATH value to take effect. You'll be able to type `code .` in any folder to start editing files in that folder. If VSCode opens, you're good to go.
 
 If VSCode does not open, try the above process again. If it still does not work, we will remedy it during lab on the first day of class.
 
